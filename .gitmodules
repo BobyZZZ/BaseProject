@@ -1,0 +1,3 @@
+[submodule "modules/module-bridge"]
+	path = modules/module-bridge
+	url = https://github.com/BobyZZZ/module-bridge.git
